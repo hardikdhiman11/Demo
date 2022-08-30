@@ -1,2 +1,2 @@
 # Demo
-This is just a beginning.
+This is just a beginning!
